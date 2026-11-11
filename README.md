@@ -1,6 +1,6 @@
 # Customer Churn Prediction Using Gradient Boosting
 
-**Author:** Mafeyisopin Ayeni  
+**Author:** Temiloluwa Ayeni  
 **Course:** Machine Learning  
 **Assignment:** Gradient Boosting  
 **Year:** 2026
